@@ -1,0 +1,126 @@
+,Airport,Latitude,Longitude,Airport Code,Count
+0,Denver International Airport,39.85891,-104.67326,den,9
+1,Los Angeles International Airport,33.94251,-118.40897,lax,29
+2,Vancouver International Airport,49.19489,-123.17923,yvr,5
+3,Burbank Bob Hope Airport,34.20056,-118.35925,bur,7
+4,John Wayne Airport-Orange County,33.67803,-117.86368,sna,13
+5,London Heathrow Airport,51.47115,-0.45649,lhr,5
+6,Minneapolis-St Paul International Airport,44.88217,-93.20835,msp,6
+7,Santa Barbara Municipal Airport,34.42611,-119.84125,sba,3
+8,McCarran International Airport,36.08521,-115.15068,las,17
+9,Aspen-Pitkin County Airport,39.22304,-106.86921,ase,2
+10,Seattle-Tacoma International Airport,47.44899,-122.30929,sea,12
+11,Palm Springs International Airport,33.82807,-116.50696,psp,8
+12,Ontario International Airport,34.05584,-117.602,ont,3
+13,Phoenix Sky Harbor International Airport,33.43551,-111.99807,phx,13
+14,Austin-Bergstrom International Airport,30.19453,-97.66987,aus,6
+15,Meadows Field Airport,35.43329,-119.0576,bfl,1
+16,Lisbon Humberto Delgado Airport,38.78131,-9.13592,lis,1
+17,Daniel K. Inouye International Airport,21.32452,-157.92507,hnl,7
+18,Chicago O'Hare International Airport,41.97959,-87.90446,ord,12
+19,Kona International Airport,19.73861,-156.04556,koa,3
+20,Washington Dulles International Airport,38.94877,-77.4491,iad,8
+21,Portland International Airport,45.58919,-122.59353,pdx,4
+22,Tucson International Airport,32.11619,-110.94176,tus,3
+23,Boise Air Terminal,43.56156,-116.23984,boi,6
+24,Sacramento International Airport,38.69518,-121.59163,smf,2
+25,Spokane International Airport,47.61986,-117.53384,geg,2
+26,Kahului Airport,20.89861,-156.43028,ogg,5
+27,San Diego International Airport,32.73235,-117.19744,san,16
+28,Salt Lake City International Airport,40.78688,-111.98203,slc,11
+29,Dublin Airport,53.42133,-6.27008,dub,2
+30,Fresno Yosemite International Airport,36.77606,-119.71903,fat,4
+31,Dallas/Fort Worth International Airport,32.89595,-97.0372,dfw,11
+32,Istanbul Airport,41.2629,28.74242,ist,1
+33,Arcata-Eureka Airport,40.97164,-124.10709,acv,2
+34,Redding Municipal Airport,40.50876,-122.29445,rdd,2
+35,San Antonio International Airport,29.53384,-98.47002,sat,1
+36,Kansas City International Airport,39.29623,-94.71775,mci,1
+37,Frankfurt Airport,50.0406,8.55603,fra,3
+38,Reno/Tahoe International Airport,39.50597,-119.77312,rno,3
+39,Lihue Airport,21.97583,-159.33861,lih,4
+40,George Bush Intercontinental Airport,29.98687,-95.34212,iah,9
+41,Amsterdam Airport Schiphol,52.3103,4.76028,ams,1
+42,Rogue Valley International - Medford Airport,42.36955,-122.87311,mfr,2
+43,Ben Gurion Airport,32.01361,34.88657,tlv,1
+44,Zurich Airport,47.45264,8.5605,zrh,1
+45,Paris Orly Airport,48.72528,2.35944,ory,1
+46,Auckland International Airport,-37.00806,174.79167,akl,2
+47,Copenhagen Airport,55.61792,12.65597,cph,1
+48,Singapore Changi Airport,1.35514,103.99006,sin,4
+49,Munich International Airport,48.35378,11.78609,muc,2
+50,Roberts Field-Redmond Municipal Airport,44.25401,-121.14975,rdm,3
+51,John F. Kennedy International Airport,40.63983,-73.77874,jfk,18
+52,Chhatrapati Shivaji Maharaj International Airport,19.08869,72.86792,bom,1
+53,Newark Liberty International Airport,40.69709,-74.17557,ewr,10
+54,Ninoy Aquino Manila International Airport,14.50499,121.00445,mnl,1
+55,Nadi International Airport,-17.75539,177.44338,nan,1
+56,Pittsburgh International Airport,40.49608,-80.25547,pit,1
+57,Miami International Airport,25.79343,-80.29005,mia,3
+58,Detroit Metropolitan Wayne County Airport,42.22205,-83.35147,dtw,4
+59,Charlotte Douglas International Airport,35.2207,-80.94413,clt,4
+60,Hartsfield-Jackson Atlanta International Airport,33.64099,-84.42265,atl,6
+61,John Glenn Columbus International Airport,39.99795,-82.88352,cmh,1
+62,Toronto Pearson International Airport,43.68066,-79.61286,yyz,4
+63,San Luis Obispo County Airport,35.23756,-120.64147,sbp,2
+64,Benito Juarez International Airport,19.4363,-99.0721,mex,6
+65,Sydney International Airport,-33.94611,151.17722,syd,1
+66,Tampa International Airport,27.97558,-82.53287,tpa,3
+67,Philadelphia International Airport,39.87835,-75.24018,phl,4
+68,Fort Lauderdale-Hollywood International Airport,26.07147,-80.144,fll,5
+69,Baltimore-Washington International Airport,39.17539,-76.66802,bwi,1
+70,Indianapolis International Airport,39.71507,-86.29762,ind,1
+71,Melbourne Airport,-37.67333,144.84333,mel,1
+72,Cancun International Airport,21.03653,-86.87708,cun,4
+73,Tan Son Nhat International Airport,10.8188,106.65186,sgn,1
+74,Cleveland-Hopkins International Airport,41.41083,-81.84944,cle,1
+75,Orlando International Airport,28.43103,-81.30768,mco,3
+76,Logan International Airport,42.36514,-71.01777,bos,10
+77,Incheon International Airport,37.4492,126.45095,icn,5
+78,Taiwan Taoyuan International Airport,25.07773,121.23282,tpe,5
+79,Aeropuerto Internacional El Salvador,13.44095,-89.05573,sal,2
+80,Tokyo International Airport,35.55226,139.77969,hnd,2
+81,Tocumen International Airport,9.07136,-79.38345,pty,1
+82,Memphis International Airport,35.04218,-89.98157,mem,2
+83,Los Cabos International Airport,23.15185,-109.72104,sjd,5
+84,Montreal-Pierre Elliott Trudeau International Airport,45.46106,-73.75019,yul,1
+85,Ronald Reagan Washington National Airport,38.85233,-77.0372,dca,2
+86,Snohomish County Airport (Paine Field),47.90763,-122.28159,pae,2
+87,Licenciado Gustavo Diaz Ordaz International Airport,20.68008,-105.25417,pvr,3
+88,Raleigh-Durham International Airport,35.87946,-78.7871,rdu,1
+89,Gallatin Field Airport,45.7766,-111.15356,bzn,3
+90,Indira Gandhi International Airport,28.5665,77.10309,del,1
+91,San Bernardino International Airport,34.09529,-117.23532,sbd,1
+92,Louis Armstrong New Orleans International Airport,29.98724,-90.25651,msy,1
+93,Tri-Cities Airport,46.26458,-119.1189,psc,1
+94,Mahlon Sweet Field Airport,44.11997,-123.21424,eug,1
+95,Narita International Airport,35.76472,140.38639,nrt,3
+96,Friedman Memorial Airport,43.50657,-114.29782,sun,1
+97,Eagle County Regional Airport,39.64249,-106.9181,ege,2
+98,Monterey Regional Airport,36.5879,-121.83939,mry,1
+99,Jackson Hole Airport,43.6066,-110.73854,jac,1
+100,Guadalajara International Airport,20.5218,-103.31117,gdl,1
+101,Nashville International Airport,36.1195,-86.68416,bna,1
+102,Albuquerque International Airport,35.04199,-106.60697,abq,1
+103,Louisville International Airport,38.17439,-85.736,sdf,1
+104,Bishop Airport,37.37437,-118.36789,bih,1
+105,Montrose Regional Airport,38.5086,-107.89423,mtj,1
+106,Southwest Florida International Airport,26.53731,-81.75997,rsw,1
+107,Dallas Love Field,32.84707,-96.85195,dal,1
+108,Fa'a'a International Airport,-17.55375,-149.60724,ppt,1
+109,Paris Charles de Gaulle Airport,49.01278,2.55,cdg,2
+110,Provo Municipal Airport,40.21551,-111.72132,pvu,1
+111,Hamad International Airport,25.26911,51.61042,doh,1
+112,Dubai International Airport,25.25278,55.36444,dxb,1
+113,Van Nuys Airport,34.20973,-118.49064,vny,1
+114,Oakland International Airport,37.73071,-122.21955,oak,2
+115,Mc Clellan Airfield,38.66671,-121.39621,mcc,1
+116,Cincinnati/Northern Kentucky International Airport,39.04614,-84.66217,cvg,1
+117,Fort Worth Alliance Airport,32.98586,-97.3146,afw,2
+118,Truckee Tahoe Airport,39.31991,-120.14047,tkf,2
+119,Santa Fe Municipal Airport,35.61698,-106.08919,saf,1
+120,McClellan-Palomar Airport,33.12809,-117.28115,cld,1
+121,Scottsdale Airport,33.62282,-111.91098,scf,1
+122,Charles B. Wheeler Downtown Airport,39.12118,-94.59153,mkc,1
+123,Lawrence G. Hanscom Field,42.46982,-71.28839,bed,1
+124,Southwest Oregon Regional Airport,43.41706,-124.24373,oth,1
